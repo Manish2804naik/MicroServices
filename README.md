@@ -1,2 +1,2 @@
-# MicroServices
-This Project contains  microservices architecture for an eBook commercial application. Each microservice has its own MongoDB database and communicates via REST APIs. The services include User Service, Book Service, and Order Service. They interact with each other and their respective databases, enabling a loosely coupled application design.
+# Scalabale-Assignment1
+This Project contains Three microservices which commuincate with each  other and are being deployed on the docker containers and also on minikube deployment
